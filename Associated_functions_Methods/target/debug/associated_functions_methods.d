@@ -1,0 +1,1 @@
+D:\Foundation\ Robotics\Rust\ Programs\Associated_functions_Methods\target\debug\associated_functions_methods.exe: D:\Foundation\ Robotics\Rust\ Programs\Associated_functions_Methods\src\bin\associated_functions_methods.rs
